@@ -1,4 +1,5 @@
 from os import system
+from neker import Beker
 
-
-print("Hello world!")
+proba = Beker()
+proba.kiir()
